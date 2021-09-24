@@ -1,0 +1,1 @@
+print("Hello" == ("Hel" + "lo"))

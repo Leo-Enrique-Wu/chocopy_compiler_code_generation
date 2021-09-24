@@ -1,0 +1,1 @@
+print("then" if (8 > 9) else "else")
